@@ -1,0 +1,13 @@
+﻿  Source.cpp
+d:\nim project\consoleapplication2\consoleapplication2\files.h(40): warning C4018: '>': signed/unsigned mismatch
+d:\nim project\consoleapplication2\consoleapplication2\testcases.h(33): warning C4018: '<': signed/unsigned mismatch
+d:\nim project\consoleapplication2\consoleapplication2\testcases.h(43): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+d:\nim project\consoleapplication2\consoleapplication2\testcases.h(60): warning C4018: '<': signed/unsigned mismatch
+d:\nim project\consoleapplication2\consoleapplication2\testcases.h(70): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+d:\nim project\consoleapplication2\consoleapplication2\testcases.h(88): warning C4018: '<': signed/unsigned mismatch
+d:\nim project\consoleapplication2\consoleapplication2\testcases.h(151): warning C4018: '<': signed/unsigned mismatch
+d:\nim project\consoleapplication2\consoleapplication2\testcases.h(161): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+d:\nim project\consoleapplication2\consoleapplication2\source.cpp(66): warning C4018: '>': signed/unsigned mismatch
+d:\nim project\consoleapplication2\consoleapplication2\source.cpp(97): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication2.vcxproj -> D:\Nim project\ConsoleApplication2\Debug\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> D:\Nim project\ConsoleApplication2\Debug\ConsoleApplication2.pdb (Full PDB)

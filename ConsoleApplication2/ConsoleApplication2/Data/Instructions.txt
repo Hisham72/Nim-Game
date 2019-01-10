@@ -1,0 +1,63 @@
+
+                              
+                                                      @*************************************************************************************@
+                                                      @*************************************************************************************@
+                                                      @_$                                                                                 $_@
+                                                      @_$                              NIM Game Instructions                              $_@
+                                                      @_$                                                                                 $_@
+                                                      @_$                                                                                 $_@
+                                                      @_$                                                                                 $_@
+                                                      @_$                                                                                 $_@
+                                                      @_$     NIM game is a game for two player                                           $_@
+                                                      @_$                                                                                 $_@
+                                                      @_$                                                                                 $_@
+                                                      @_$                                                                                 $_@ 
+                                                      @_$     They agree on the number of columns they want to play and fill              $_@ 
+                                                      @_$                                                                                 $_@
+                                                      @_$     each column with any number of pieces they want.                            $_@
+                                                      @_$                                                                                 $_@
+                                                      @_$                                                                                 $_@
+                                                      @_$                               then the Game starts:                             $_@
+                                                      @_$                                                                                 $_@      
+                                                      @_$                                                                                 $_@
+                                                      @_$  1-     Every turn a palyer removes any number of pieces he/she wants but it    $_@
+                                                      @_$                                                                                 $_@
+                                                      @_$     must be from the same column. You can't remove pieces from different        $_@
+                                                      @_$                                                                                 $_@
+                                                      @_$     columns at the same time.                                                   $_@         
+                                                      @_$                                                                                 $_@       
+                                                      @_$                                                                                 $_@
+                                                      @_$                                                                                 $_@
+                                                      @_$  2-     winning the game depends on the version :                               $_@
+                                                      @_$                                                                                 $_@
+                                                      @_$                                                                                 $_@             
+                                                      @_$  A) Fundamental_Version ==> the last player remove pieces                       $_@
+                                                      @_$                                                                                 $_@ 
+                                                      @_$                             from the board and makes the board empty is WINNER. $_@
+                                                      @_$                                                                                 $_@
+                                                      @_$                             He/she earns 3 points.                              $_@
+                                                      @_$                                                                                 $_@    
+                                                      @_$  B) Reverse/Misère_Version: the last player remove pieces                       $_@
+                                                      @_$                                                                                 $_@
+                                                      @_$                             from the board and makes the board empty is LOSER.  $_@
+                                                      @_$                                                                                 $_@
+                                                      @_$                             The winner earns 5 points.                          $_@
+                                                      @_$                                                                                 $_@
+                                                      @_$                                                                                 $_@
+                                                      @_$  Play the game four or five times then write down                               $_@
+                                                      @_$  any strategies you may have found.                                             $_@
+                                                      @_$                                                                                 $_@
+                                                      @_$    Extensions:                                                                  $_@
+                                                      @_$                                                                                 $_@
+                                                      @_$     • Would it make a difference if you start first or                          $_@
+                                                      @_$       second in the game?                                                       $_@
+                                                      @_$                                                                                 $_@
+                                                      @_$                                                                                 $_@
+                                                      @_$     • Try playing the game with a different number of                           $_@
+                                                      @_$       pieces. What do you notice?                                               $_@
+                                                      @_$                                                                                 $_@                                                                                       
+                                                      @_$                                                                                 $_@
+                                                      @*************************************************************************************@
+                                                      ***************************************************************************************
+                         
+                                                                                 (Press_Any_Key_To Back_TO_Menu)
